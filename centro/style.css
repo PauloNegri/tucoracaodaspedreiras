@@ -1,0 +1,11 @@
+.tudo{
+    background-color: rgb(231, 202, 185);
+}
+
+footer{
+    display: "block";
+}
+
+.smile:hover{
+   text-decoration:underline ;
+}
